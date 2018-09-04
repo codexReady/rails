@@ -1,4 +1,5 @@
 # Welcome to Rails
+bonjour lyon
 
 ## What's Rails
 
